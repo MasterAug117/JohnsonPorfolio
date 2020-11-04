@@ -1,3 +1,11 @@
 #Rick{
   width: 100%;
 }
+#underRick{
+   scale: 10%;
+   background: url(plant.JPG) 0 0; 
+   width: 100%;
+}
+#games{
+  background: rgba(228, 193, 36, 0.3);
+}
